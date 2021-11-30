@@ -1,8 +1,8 @@
 /*	Author: Fio Estuar
  *  Partner(s) Name: 
  *	Lab Section: 23
- *	Assignment: Final Project, Demo 1
- *	Exercise Description: For this part of my final project, I will be setting up my joystick using ADC in the following way...
+ *	Assignment: Final Project, Demo 2
+ *	Exercise Description: For this part of my final project, I will be adding functionality to control an LED matrix using shift registers....
  *	
  *		|| INPUTS ||
  *		A0: The ADC result for the left/right axis
